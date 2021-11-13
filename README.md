@@ -4,6 +4,7 @@
 
 Steps to train the model for face recognition!
 
+#https://github.com/nemuelpah/Face-Recognition-with-FaceNET/blob/main/FaceRecog_with_COLAB.ipynb (I took help from this gentlemen)
 
 FaceNet is the model (pretrained)
 
