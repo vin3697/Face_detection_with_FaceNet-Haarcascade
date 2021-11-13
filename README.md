@@ -37,4 +37,6 @@ Face Net takes 4 dimension input
 
 #Test Images!
 The accuracy is great!
+![test_1](https://user-images.githubusercontent.com/92587549/141658206-4cb819c7-fbc1-41ae-9d5b-0485ef5f9594.JPG)
+![test_2](https://user-images.githubusercontent.com/92587549/141658210-d4c1ecd1-52c6-48ab-bed5-1385aa8e7aa4.JPG)
 
